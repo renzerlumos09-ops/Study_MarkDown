@@ -8,11 +8,20 @@ This repository will continuously update Markdowns, including study notes, knowl
 
 ## 📅实时更新日志
 
+- 2026-02-03
+  - 【增添】BEHI_5007课程笔记及配套图片；
+  
+- 2026-02-02
+  - 【增添】BEHI_5011课程笔记及配套图片；
+  - 【增添】Linear_algebra课程笔记及配套图片；
+  - 【增添】BEHI_5007课程笔记及配套图片；
+  - 【初始化】设置`_config.yml`文件，开启文库的LaTeX公式渲染；
+  - 【初始化】建立Github page，现可直接输入地址访问该文库[Github](https://renzerlumos09-ops.github.io/Study_MarkDown/)；
+
 - 2026-02-01
   - 【增添】BEHI_5011课程笔记及配套图片文件夹`BEHI_5011_n.assets`；
   - 【删除】Daily_Note目录下冗余文件；
   - 【整理】剔除冗余文件，仅留下学习笔记；
-
 - 2026-02-01
   - 【初始化】上传仓库根目录及所有子目录的笔记、图片资源，完成仓库首次同步。
 
